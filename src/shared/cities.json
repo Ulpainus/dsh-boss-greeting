@@ -1,0 +1,2246 @@
+[
+ {
+  "name": "全国",
+  "code": "100010000",
+  "pinyin": "quanguo",
+  "firstChar": "Q"
+ },
+ {
+  "name": "鞍山",
+  "code": "101070300",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "阿拉善盟",
+  "code": "101081200",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "安康",
+  "code": "101110700",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "阿克苏地区",
+  "code": "101131000",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "阿勒泰地区",
+  "code": "101131500",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "阿拉尔",
+  "code": "101131700",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "阿里地区",
+  "code": "101140700",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "安阳",
+  "code": "101180200",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "安庆",
+  "code": "101220600",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "安顺",
+  "code": "101260300",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "阿坝藏族羌族自治州",
+  "code": "101271900",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "澳门",
+  "code": "101330100",
+  "pinyin": "",
+  "firstChar": "A"
+ },
+ {
+  "name": "北京",
+  "code": "101010100",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "白城",
+  "code": "101060500",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "白山",
+  "code": "101060800",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "本溪",
+  "code": "101070500",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "包头",
+  "code": "101080200",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "巴彦淖尔",
+  "code": "101080800",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "保定",
+  "code": "101090200",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "宝鸡",
+  "code": "101110900",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "滨州",
+  "code": "101121100",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "巴音郭楞蒙古自治州",
+  "code": "101130400",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "博尔塔拉蒙古自治州",
+  "code": "101130500",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "北屯市",
+  "code": "101132100",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "白杨市",
+  "code": "101132700",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "白银",
+  "code": "101161000",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "蚌埠",
+  "code": "101220200",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "亳州",
+  "code": "101220900",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "毕节",
+  "code": "101260500",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "巴中",
+  "code": "101270900",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "保山",
+  "code": "101290300",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "百色",
+  "code": "101301000",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "北海",
+  "code": "101301300",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "白沙黎族自治县",
+  "code": "101311400",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "保亭黎族苗族自治县",
+  "code": "101311800",
+  "pinyin": "",
+  "firstChar": "B"
+ },
+ {
+  "name": "重庆",
+  "code": "101040100",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "长春",
+  "code": "101060100",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "朝阳",
+  "code": "101071200",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "赤峰",
+  "code": "101080500",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "承德",
+  "code": "101090400",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "沧州",
+  "code": "101090700",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "长治",
+  "code": "101100500",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "昌吉回族自治州",
+  "code": "101130300",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "昌都",
+  "code": "101140300",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "常州",
+  "code": "101191100",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "滁州",
+  "code": "101221000",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "池州",
+  "code": "101221500",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "长沙",
+  "code": "101250100",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "郴州",
+  "code": "101250500",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "常德",
+  "code": "101250600",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "成都",
+  "code": "101270100",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "潮州",
+  "code": "101281500",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "楚雄彝族自治州",
+  "code": "101291700",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "崇左",
+  "code": "101300200",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "澄迈",
+  "code": "101311200",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "昌江黎族自治县",
+  "code": "101311500",
+  "pinyin": "",
+  "firstChar": "C"
+ },
+ {
+  "name": "大庆",
+  "code": "101050800",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "大兴安岭地区",
+  "code": "101051300",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "大连",
+  "code": "101070200",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "丹东",
+  "code": "101070600",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "大同",
+  "code": "101100200",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "德州",
+  "code": "101120400",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "东营",
+  "code": "101121200",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "定西",
+  "code": "101160200",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "达州",
+  "code": "101270600",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "德阳",
+  "code": "101271700",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "东莞",
+  "code": "101281600",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "东沙群岛",
+  "code": "101282200",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "德宏傣族景颇族自治州",
+  "code": "101291300",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "迪庆藏族自治州",
+  "code": "101291500",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "大理白族自治州",
+  "code": "101291600",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "儋州",
+  "code": "101310400",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "东方",
+  "code": "101310900",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "定安",
+  "code": "101311000",
+  "pinyin": "",
+  "firstChar": "D"
+ },
+ {
+  "name": "鄂尔多斯",
+  "code": "101080600",
+  "pinyin": "",
+  "firstChar": "E"
+ },
+ {
+  "name": "鄂州",
+  "code": "101200300",
+  "pinyin": "",
+  "firstChar": "E"
+ },
+ {
+  "name": "恩施土家族苗族自治州",
+  "code": "101201300",
+  "pinyin": "",
+  "firstChar": "E"
+ },
+ {
+  "name": "抚顺",
+  "code": "101070400",
+  "pinyin": "",
+  "firstChar": "F"
+ },
+ {
+  "name": "阜新",
+  "code": "101070900",
+  "pinyin": "",
+  "firstChar": "F"
+ },
+ {
+  "name": "阜阳",
+  "code": "101220800",
+  "pinyin": "",
+  "firstChar": "F"
+ },
+ {
+  "name": "福州",
+  "code": "101230100",
+  "pinyin": "",
+  "firstChar": "F"
+ },
+ {
+  "name": "抚州",
+  "code": "101240400",
+  "pinyin": "",
+  "firstChar": "F"
+ },
+ {
+  "name": "佛山",
+  "code": "101280800",
+  "pinyin": "",
+  "firstChar": "F"
+ },
+ {
+  "name": "防城港",
+  "code": "101301400",
+  "pinyin": "",
+  "firstChar": "F"
+ },
+ {
+  "name": "果洛藏族自治州",
+  "code": "101150600",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "甘南藏族自治州",
+  "code": "101161400",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "固原",
+  "code": "101170400",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "赣州",
+  "code": "101240700",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "贵阳",
+  "code": "101260100",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "广安",
+  "code": "101270800",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "广元",
+  "code": "101271800",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "甘孜藏族自治州",
+  "code": "101272100",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "广州",
+  "code": "101280100",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "桂林",
+  "code": "101300500",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "贵港",
+  "code": "101300800",
+  "pinyin": "",
+  "firstChar": "G"
+ },
+ {
+  "name": "哈尔滨",
+  "code": "101050100",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "黑河",
+  "code": "101050600",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "鹤岗",
+  "code": "101051100",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "葫芦岛",
+  "code": "101071400",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "呼和浩特",
+  "code": "101080100",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "呼伦贝尔",
+  "code": "101080700",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "衡水",
+  "code": "101090800",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "邯郸",
+  "code": "101091000",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "汉中",
+  "code": "101110800",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "菏泽",
+  "code": "101121000",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "哈密",
+  "code": "101130900",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "和田地区",
+  "code": "101131300",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "胡杨河市",
+  "code": "101132600",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "海东",
+  "code": "101150200",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "海北藏族自治州",
+  "code": "101150300",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "黄南藏族自治州",
+  "code": "101150400",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "海南藏族自治州",
+  "code": "101150500",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "海西蒙古族藏族自治州",
+  "code": "101150800",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "鹤壁",
+  "code": "101181200",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "淮安",
+  "code": "101190900",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "黄冈",
+  "code": "101200500",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "黄石",
+  "code": "101200600",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "杭州",
+  "code": "101210100",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "湖州",
+  "code": "101210200",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "合肥",
+  "code": "101220100",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "淮南",
+  "code": "101220400",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "淮北",
+  "code": "101221100",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "黄山",
+  "code": "101221600",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "衡阳",
+  "code": "101250400",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "怀化",
+  "code": "101251200",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "惠州",
+  "code": "101280300",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "河源",
+  "code": "101281200",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "红河哈尼族彝族自治州",
+  "code": "101291200",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "贺州",
+  "code": "101300700",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "河池",
+  "code": "101301200",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "海口",
+  "code": "101310100",
+  "pinyin": "",
+  "firstChar": "H"
+ },
+ {
+  "name": "佳木斯",
+  "code": "101050400",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "鸡西",
+  "code": "101051000",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "吉林",
+  "code": "101060200",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "锦州",
+  "code": "101070700",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "晋中",
+  "code": "101100400",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "晋城",
+  "code": "101100600",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "济南",
+  "code": "101120100",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "济宁",
+  "code": "101120700",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "金昌",
+  "code": "101160600",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "酒泉",
+  "code": "101160800",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "嘉峪关",
+  "code": "101161200",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "焦作",
+  "code": "101181100",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "济源",
+  "code": "101181800",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "荆州",
+  "code": "101200800",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "荆门",
+  "code": "101201200",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "嘉兴",
+  "code": "101210300",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "金华",
+  "code": "101210900",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "九江",
+  "code": "101240200",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "吉安",
+  "code": "101240600",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "景德镇",
+  "code": "101240800",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "江门",
+  "code": "101281100",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "揭阳",
+  "code": "101281900",
+  "pinyin": "",
+  "firstChar": "J"
+ },
+ {
+  "name": "克拉玛依",
+  "code": "101130200",
+  "pinyin": "",
+  "firstChar": "K"
+ },
+ {
+  "name": "克孜勒苏柯尔克孜自治州",
+  "code": "101131100",
+  "pinyin": "",
+  "firstChar": "K"
+ },
+ {
+  "name": "喀什地区",
+  "code": "101131200",
+  "pinyin": "",
+  "firstChar": "K"
+ },
+ {
+  "name": "可克达拉市",
+  "code": "101132200",
+  "pinyin": "",
+  "firstChar": "K"
+ },
+ {
+  "name": "昆玉市",
+  "code": "101132300",
+  "pinyin": "",
+  "firstChar": "K"
+ },
+ {
+  "name": "开封",
+  "code": "101180800",
+  "pinyin": "",
+  "firstChar": "K"
+ },
+ {
+  "name": "昆明",
+  "code": "101290100",
+  "pinyin": "",
+  "firstChar": "K"
+ },
+ {
+  "name": "辽源",
+  "code": "101060600",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "辽阳",
+  "code": "101071000",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "廊坊",
+  "code": "101090600",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "临汾",
+  "code": "101100700",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "吕梁",
+  "code": "101101100",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "临沂",
+  "code": "101120900",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "聊城",
+  "code": "101121700",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "拉萨",
+  "code": "101140100",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "林芝",
+  "code": "101140400",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "兰州",
+  "code": "101160100",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "陇南",
+  "code": "101161100",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "临夏回族自治州",
+  "code": "101161300",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "洛阳",
+  "code": "101180900",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "漯河",
+  "code": "101181500",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "连云港",
+  "code": "101191000",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "丽水",
+  "code": "101210800",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "六安",
+  "code": "101221400",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "龙岩",
+  "code": "101230700",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "娄底",
+  "code": "101250800",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "六盘水",
+  "code": "101260600",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "泸州",
+  "code": "101271000",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "乐山",
+  "code": "101271400",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "凉山彝族自治州",
+  "code": "101272000",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "临沧",
+  "code": "101290800",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "丽江",
+  "code": "101290900",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "柳州",
+  "code": "101300300",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "来宾",
+  "code": "101300400",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "临高",
+  "code": "101311300",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "乐东黎族自治县",
+  "code": "101311600",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "陵水黎族自治县",
+  "code": "101311700",
+  "pinyin": "",
+  "firstChar": "L"
+ },
+ {
+  "name": "牡丹江",
+  "code": "101050300",
+  "pinyin": "",
+  "firstChar": "M"
+ },
+ {
+  "name": "马鞍山",
+  "code": "101220500",
+  "pinyin": "",
+  "firstChar": "M"
+ },
+ {
+  "name": "绵阳",
+  "code": "101270400",
+  "pinyin": "",
+  "firstChar": "M"
+ },
+ {
+  "name": "眉山",
+  "code": "101271500",
+  "pinyin": "",
+  "firstChar": "M"
+ },
+ {
+  "name": "梅州",
+  "code": "101280400",
+  "pinyin": "",
+  "firstChar": "M"
+ },
+ {
+  "name": "茂名",
+  "code": "101282000",
+  "pinyin": "",
+  "firstChar": "M"
+ },
+ {
+  "name": "那曲",
+  "code": "101140600",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "南阳",
+  "code": "101180700",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "南京",
+  "code": "101190100",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "南通",
+  "code": "101190500",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "宁波",
+  "code": "101210400",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "宁德",
+  "code": "101230300",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "南平",
+  "code": "101230900",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "南昌",
+  "code": "101240100",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "南充",
+  "code": "101270500",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "内江",
+  "code": "101271200",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "怒江傈僳族自治州",
+  "code": "101291400",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "南宁",
+  "code": "101300100",
+  "pinyin": "",
+  "firstChar": "N"
+ },
+ {
+  "name": "盘锦",
+  "code": "101071300",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "平凉",
+  "code": "101160300",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "平顶山",
+  "code": "101180500",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "濮阳",
+  "code": "101181300",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "莆田",
+  "code": "101230400",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "萍乡",
+  "code": "101240900",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "攀枝花",
+  "code": "101270200",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "普洱",
+  "code": "101290500",
+  "pinyin": "",
+  "firstChar": "P"
+ },
+ {
+  "name": "齐齐哈尔",
+  "code": "101050200",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "七台河",
+  "code": "101050900",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "秦皇岛",
+  "code": "101091100",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "青岛",
+  "code": "101120200",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "庆阳",
+  "code": "101160400",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "潜江",
+  "code": "101201500",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "衢州",
+  "code": "101211000",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "泉州",
+  "code": "101230500",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "黔东南苗族侗族自治州",
+  "code": "101260700",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "黔南布依族苗族自治州",
+  "code": "101260800",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "黔西南布依族苗族自治州",
+  "code": "101260900",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "清远",
+  "code": "101281300",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "曲靖",
+  "code": "101290200",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "钦州",
+  "code": "101301100",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "琼海",
+  "code": "101310600",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "琼中黎族苗族自治县",
+  "code": "101311900",
+  "pinyin": "",
+  "firstChar": "Q"
+ },
+ {
+  "name": "日照",
+  "code": "101121500",
+  "pinyin": "",
+  "firstChar": "R"
+ },
+ {
+  "name": "日喀则",
+  "code": "101140200",
+  "pinyin": "",
+  "firstChar": "R"
+ },
+ {
+  "name": "上海",
+  "code": "101020100",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "绥化",
+  "code": "101050500",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "双鸭山",
+  "code": "101051200",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "四平",
+  "code": "101060300",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "松原",
+  "code": "101060700",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "沈阳",
+  "code": "101070100",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "石家庄",
+  "code": "101090100",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "朔州",
+  "code": "101100900",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "商洛",
+  "code": "101110600",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "石河子",
+  "code": "101131600",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "双河市",
+  "code": "101132400",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "山南",
+  "code": "101140500",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "石嘴山",
+  "code": "101170200",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "商丘",
+  "code": "101181000",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "三门峡",
+  "code": "101181700",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "苏州",
+  "code": "101190400",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "宿迁",
+  "code": "101191300",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "十堰",
+  "code": "101201000",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "随州",
+  "code": "101201100",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "神农架",
+  "code": "101201700",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "绍兴",
+  "code": "101210500",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "宿州",
+  "code": "101220700",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "三明",
+  "code": "101230800",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "上饶",
+  "code": "101240300",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "邵阳",
+  "code": "101250900",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "遂宁",
+  "code": "101270700",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "韶关",
+  "code": "101280200",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "汕头",
+  "code": "101280500",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "深圳",
+  "code": "101280600",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "汕尾",
+  "code": "101282100",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "三亚",
+  "code": "101310200",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "三沙",
+  "code": "101310300",
+  "pinyin": "",
+  "firstChar": "S"
+ },
+ {
+  "name": "天津",
+  "code": "101030100",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "通化",
+  "code": "101060400",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "铁岭",
+  "code": "101071100",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "通辽",
+  "code": "101080400",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "唐山",
+  "code": "101090500",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "太原",
+  "code": "101100100",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "铜川",
+  "code": "101111000",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "泰安",
+  "code": "101120800",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "吐鲁番",
+  "code": "101130800",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "塔城地区",
+  "code": "101131400",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "图木舒克",
+  "code": "101131800",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "铁门关",
+  "code": "101132000",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "天水",
+  "code": "101160900",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "泰州",
+  "code": "101191200",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "天门",
+  "code": "101201600",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "台州",
+  "code": "101210600",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "铜陵",
+  "code": "101221200",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "铜仁",
+  "code": "101260400",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "屯昌",
+  "code": "101311100",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "台湾",
+  "code": "101341100",
+  "pinyin": "",
+  "firstChar": "T"
+ },
+ {
+  "name": "乌海",
+  "code": "101080300",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "乌兰察布",
+  "code": "101080900",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "渭南",
+  "code": "101110500",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "潍坊",
+  "code": "101120600",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "威海",
+  "code": "101121300",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "乌鲁木齐",
+  "code": "101130100",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "五家渠",
+  "code": "101131900",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "武威",
+  "code": "101160500",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "吴忠",
+  "code": "101170300",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "无锡",
+  "code": "101190200",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "武汉",
+  "code": "101200100",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "温州",
+  "code": "101210700",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "芜湖",
+  "code": "101220300",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "文山壮族苗族自治州",
+  "code": "101291100",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "梧州",
+  "code": "101300600",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "五指山",
+  "code": "101310500",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "文昌",
+  "code": "101310700",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "万宁",
+  "code": "101310800",
+  "pinyin": "",
+  "firstChar": "W"
+ },
+ {
+  "name": "锡林郭勒盟",
+  "code": "101081000",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "兴安盟",
+  "code": "101081100",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "邢台",
+  "code": "101090900",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "忻州",
+  "code": "101101000",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "西安",
+  "code": "101110100",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "咸阳",
+  "code": "101110200",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "新星市",
+  "code": "101132500",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "西宁",
+  "code": "101150100",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "新乡",
+  "code": "101180300",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "许昌",
+  "code": "101180400",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "信阳",
+  "code": "101180600",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "徐州",
+  "code": "101190800",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "襄阳",
+  "code": "101200200",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "孝感",
+  "code": "101200400",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "咸宁",
+  "code": "101200700",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "仙桃",
+  "code": "101201400",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "宣城",
+  "code": "101221300",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "厦门",
+  "code": "101230200",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "新余",
+  "code": "101241000",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "湘潭",
+  "code": "101250200",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "湘西土家族苗族自治州",
+  "code": "101251400",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "西双版纳傣族自治州",
+  "code": "101291000",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "香港",
+  "code": "101320300",
+  "pinyin": "",
+  "firstChar": "X"
+ },
+ {
+  "name": "伊春",
+  "code": "101050700",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "延边朝鲜族自治州",
+  "code": "101060900",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "营口",
+  "code": "101070800",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "阳泉",
+  "code": "101100300",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "运城",
+  "code": "101100800",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "延安",
+  "code": "101110300",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "榆林",
+  "code": "101110400",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "烟台",
+  "code": "101120500",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "伊犁哈萨克自治州",
+  "code": "101130600",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "玉树藏族自治州",
+  "code": "101150700",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "银川",
+  "code": "101170100",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "扬州",
+  "code": "101190600",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "盐城",
+  "code": "101190700",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "宜昌",
+  "code": "101200900",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "宜春",
+  "code": "101240500",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "鹰潭",
+  "code": "101241100",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "益阳",
+  "code": "101250700",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "岳阳",
+  "code": "101251000",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "永州",
+  "code": "101251300",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "宜宾",
+  "code": "101271100",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "雅安",
+  "code": "101271600",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "云浮",
+  "code": "101281400",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "阳江",
+  "code": "101281800",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "玉溪",
+  "code": "101290400",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "玉林",
+  "code": "101300900",
+  "pinyin": "",
+  "firstChar": "Y"
+ },
+ {
+  "name": "张家口",
+  "code": "101090300",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "淄博",
+  "code": "101120300",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "枣庄",
+  "code": "101121400",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "张掖",
+  "code": "101160700",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "中卫",
+  "code": "101170500",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "郑州",
+  "code": "101180100",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "周口",
+  "code": "101181400",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "驻马店",
+  "code": "101181600",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "镇江",
+  "code": "101190300",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "舟山",
+  "code": "101211100",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "漳州",
+  "code": "101230600",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "株洲",
+  "code": "101250300",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "张家界",
+  "code": "101251100",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "遵义",
+  "code": "101260200",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "自贡",
+  "code": "101270300",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "资阳",
+  "code": "101271300",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "珠海",
+  "code": "101280700",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "肇庆",
+  "code": "101280900",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "湛江",
+  "code": "101281000",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "中山",
+  "code": "101281700",
+  "pinyin": "",
+  "firstChar": "Z"
+ },
+ {
+  "name": "昭通",
+  "code": "101290700",
+  "pinyin": "",
+  "firstChar": "Z"
+ }
+]

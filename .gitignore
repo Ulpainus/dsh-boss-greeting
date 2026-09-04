@@ -1,0 +1,5 @@
+node_modules/
+userdata/
+data/
+lib/
+*.log

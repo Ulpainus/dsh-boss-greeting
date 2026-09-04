@@ -1,0 +1,35 @@
+{
+  "name": "dsh-boss-greeting",
+  "version": "0.1.0",
+  "description": "Boss 直聘半自动投简历 dsh 插件：agent 工具 + Web 悬浮面板（搜索岗位、勾选确认、逐个打招呼）",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": { "default": "./lib/index.js" },
+    "./client": { "default": "./lib/client.js" },
+    "./package.json": "./package.json"
+  },
+  "files": ["lib", "src", "cordis.patch.yml", "README.md", "README.zh.md"],
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" },
+    "client": { "platform": "web" }
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "watch": "node build.mjs --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@deepseek-ai/cordis": "^4.0.1",
+    "@deepseek-ai/dsh-tools": "0.1.2-alpha.5",
+    "@deepseek-ai/schemastery": "^3.18.1",
+    "patchright": "^1.62.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^18.3.1",
+    "esbuild": "^0.27.0",
+    "typescript": "^5.9.0"
+  }
+}
