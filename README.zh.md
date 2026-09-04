@@ -2,15 +2,9 @@
 
 中文 | [English](README.md)
 
-一个 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（dsh）插件：Boss 直聘半自动投简历。搜索岗位 → 在悬浮面板（或对话里让 agent 打分筛选）确认清单 → 以拟人节奏逐个向 BOSS 打招呼。
+一个 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 插件
+在Boss上半自动骚扰HR
 
-## 功能
-
-- **5 个 agent 工具**：`boss_login`（持久化浏览器 + 扫码登录）、`boss_search`（拦截岗位列表接口拿明文薪资，支持关键词/公司黑名单/薪资区间过滤）、`boss_greet`（只投你确认过的 jobIds，岗位间随机 4–8 秒间隔，自动跳过已沟通，遇到每日上限或滑块验证会停止并说明）、`boss_records`（本地记录查询）、`boss_stop`（中止投递循环）。
-- **Web 悬浮面板**（dsh 页面右下角 "Boss" 按钮）：状态区（登录态/任务实时进度日志）、搜索区、结果复选清单（全选/清空）、招呼语编辑、已沟通记录区。运行中每 2 秒、空闲每 10 秒轮询 `/boss-greeting/api/status`。
-- **HTTP API**：`/boss-greeting/api/*` 桥接面板与 host，带 loopback 浏览器信任检查（Host 必须 loopback、拒绝 cross-site 标记、Origin 必须与 Host 同源）。
-- **本地 JSON 存储**（`data/jobs.json`、`data/greeted.json`）：按 `securityId` 去重、按日统计沟通数；登录态保存在 `userdata/`（patchright 持久化上下文）。
-- AI 匹配打分由 dsh agent 在对话中完成，插件只返回结构化岗位数据，自身不调用任何 LLM。
 
 ## 安装
 

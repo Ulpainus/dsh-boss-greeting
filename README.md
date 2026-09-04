@@ -2,15 +2,8 @@
 
 [中文](README.zh.md) | English
 
-A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (dsh) plugin for semi-automated job application on Boss Zhipin (BOSS 直聘): search jobs, review them in a floating panel (or let the agent score them in chat), confirm the ones you want, and greet the recruiters one by one with human-like pacing.
-
-## Features
-
-- **5 agent tools**: `boss_login` (persistent browser + QR-code login), `boss_search` (intercepts the job-list API for plaintext salary; keyword/blacklist/salary-range filters), `boss_greet` (greets only the job IDs you confirmed, random 4–8 s intervals, skips already-greeted, stops on daily limit or slider captcha), `boss_records` (local records), `boss_stop` (abort the running loop).
-- **Web floating panel** (bottom-right "Boss" button on the dsh page): status area (login state / task progress with live log), search form, result checklist with select-all, greeting editor, greeted-records view. Polls `/boss-greeting/api/status` (2 s while running, 10 s idle).
-- **HTTP API** under `/boss-greeting/api/*` bridging the panel and the host, guarded by a loopback browser-trust fence (Host must be loopback, cross-site markers rejected, Origin must match Host).
-- **Local JSON storage** (`data/jobs.json`, `data/greeted.json`) — dedup by `securityId`, daily greet counting; login state persists in `userdata/` (patchright persistent context).
-- The AI matching/scoring is done by the dsh agent in conversation — the plugin only returns structured job data and never calls an LLM itself.
+A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (dsh) plugin
+that semi-automatically pesters HRs on Boss Zhipin (BOSS 直聘).
 
 ## Install
 
