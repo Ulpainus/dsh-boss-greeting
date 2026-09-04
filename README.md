@@ -3,7 +3,7 @@
 [中文](README.zh.md) | English
 
 A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (dsh) plugin
-that semi-automatically pesters HRs on Boss Zhipin (BOSS 直聘).
+for semi-automated resume submission on Boss Zhipin (BOSS 直聘).
 
 ## Install
 
